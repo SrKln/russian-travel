@@ -1,0 +1,10 @@
+.info__digit {
+    margin: 0;
+    padding: 0;
+    font-family: "Inter";
+    font-style: normal;
+    font-size: 12px;
+    line-height: 18px;
+    color: #fff;
+    font-weight: 400;
+}

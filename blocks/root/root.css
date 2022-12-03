@@ -9,7 +9,6 @@
   -moz-text-size-adjust: 100%;
   text-rendering: optimizeLegibility;
   color: #000;
-  margin: auto;
   background-color: #2a2c2f;
   position: relative;
 }
@@ -33,21 +32,20 @@
   /* стили для малого смартфона */
 }
 
-
 /* для подсветки блоков, во время работ */
 /* 
 div {
-  outline: 1px solid red;
+outline: 1px solid red;
 }
 section {
-  outline: 1px solid blue;
+outline: 1px solid blue;
 }
 
 nav {
-  outline: 1px solid green;
+outline: 1px solid green;
 }
- 
- 
+
+
 p,
 div,
 h1,
@@ -55,16 +53,16 @@ h2,
 h3,
 a,
 li {
-  outline: 1px solid red;
+outline: 1px solid red;
 }
 
 section,
 article {
-  outline: 1px solid blue;
+outline: 1px solid blue;
 }
 
 ul,
 nav {
-  outline: 1px solid pink;
+outline: 1px solid pink;
 }
 */

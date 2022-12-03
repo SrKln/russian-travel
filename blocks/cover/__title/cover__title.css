@@ -12,23 +12,20 @@
     z-index: 2;
 }
 
-
 @media screen and (min-width: 768px) {
-    .cover__title {       
+    .cover__title {
         margin: 115px 0 32px 0;
-        max-width: 560px;        
+        max-width: 560px;
         font-size: 72px;
         line-height: 76px;
     }
 }
-
 
 @media screen and (min-width: 1024px) {
     .cover__title {
         margin: 195px 0 32px 0;
     }
 }
-
 
 @media screen and (min-width: 1280px) {
     .cover__title {

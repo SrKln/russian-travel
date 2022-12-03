@@ -1,0 +1,70 @@
+.root {
+  margin: 0 auto;
+  padding: 0;
+  font-family: "Inter", Arial, sans-serif;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
+  color: #000;
+  margin: auto;
+  background-color: #2a2c2f;
+  position: relative;
+}
+
+@media screen and (min-width: 1280px) {
+  /* стили для больших настольных компьютеров и ноутбуков */
+  .root {
+      max-width: 1280px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  /* стили для планшета в альбомной ориентации */
+}
+
+@media screen and (min-width: 768px) {
+  /* стили для планшета */
+}
+
+@media screen and (min-width: 320px) {
+  /* стили для малого смартфона */
+}
+
+
+/* для подсветки блоков, во время работ */
+/* 
+div {
+  outline: 1px solid red;
+}
+section {
+  outline: 1px solid blue;
+}
+
+nav {
+  outline: 1px solid green;
+}
+ 
+ 
+p,
+div,
+h1,
+h2,
+h3,
+a,
+li {
+  outline: 1px solid red;
+}
+
+section,
+article {
+  outline: 1px solid blue;
+}
+
+ul,
+nav {
+  outline: 1px solid pink;
+}
+*/

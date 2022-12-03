@@ -1,0 +1,12 @@
+.link {
+    
+    cursor:default  ;
+    opacity: 1;
+    transition: opacity 1s linear .2s;
+ 
+}
+      .link:hover {
+        cursor: pointer;
+        opacity: .5;
+      }
+ 

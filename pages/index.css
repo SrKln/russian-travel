@@ -1,0 +1,72 @@
+@import url("../vendor/normalize.css");
+
+/* подключаем шрифт */
+
+@import url("../vendor/inter.css");
+
+/* подключаем глобальные */
+
+@import url("../blocks/root/root.css");
+
+/* подключаем наведение ссылок */
+
+@import url("../blocks/link/link.css");
+
+/* подключает отключение точек у списков */
+
+@import url("../blocks/list/list.css");
+
+/* хедер */
+
+@import url("../blocks/header/header.css");
+@import url("../blocks/header/__logo/header__logo.css");
+@import url("../blocks/header/__lang-place/header__lang-place.css");
+@import url("../blocks/header/__lang-link/header__lang-link.css");
+@import url("../blocks/header/__lang-link/_active/header__lang-link_active.css");
+
+/* лид */
+@import url("../blocks/lead/lead.css");
+@import url("../blocks/lead/__title/lead__title.css");
+@import url("../blocks/lead/__subtitle/lead__subtitle.css");
+@import url("../blocks/lead/__image/lead__image.css");
+@import url("../blocks/lead/__caption/lead__caption.css");
+
+/* инфо */
+
+@import url("../blocks/info/info.css");
+@import url("../blocks/info/__title/info__title.css");
+@import url("../blocks/info/__text/info__text.css");
+@import url("../blocks/info/__list-item/info__list-item.css");
+@import url("../blocks/info/__list-item_slim/info__list-item_slim.css");
+
+/* фотогрид */
+
+@import url("../blocks/photo-grid/photo-grid.css");
+@import url("../blocks/photo-grid/__item/photo-grid__item.css");
+@import url("../blocks/photo-grid/__item/_pic/photo-grid__item_pic.css");
+
+/* места  карточки*/
+@import url("../blocks/places/places.css");
+@import url("../blocks/place/place.css");
+@import url("../blocks/place/__title/place__title.css");
+@import url("../blocks/place/__website/place__website.css");
+@import url("../blocks/place/__url-heading/place__url-heading.css");
+@import url("../blocks/place/__link/place__link.css");
+@import url("../blocks/place/__image/place__image.css");
+@import url("../blocks/place/__image/_pic/place__image_pic.css");
+@import url("../blocks/place/__text/place__text.css");
+@import url("../blocks/place/__paragraph/place__paragraph.css");
+
+/* места  cover */
+
+@import url("../blocks/cover/cover.css");
+@import url("../blocks/cover/__link/cover__link.css");
+@import url("../blocks/cover/__title/cover__title.css");
+@import url("../blocks/cover/__subtitle/cover__subtitle.css");
+
+/* подвал */
+
+@import url("../blocks/footer/footer.css");
+@import url("../blocks/nav-links/nav-links.css");
+@import url("../blocks/nav-links/__link/nav-links__link.css");
+@import url("../blocks/footer/__copyright/footer__copyright.css");

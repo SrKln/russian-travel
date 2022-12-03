@@ -1,0 +1,19 @@
+.info__text {
+    margin: 0 0 34px 0;
+    padding: 0;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+}
+
+
+@media screen and (min-width: 768px) {
+    .info__text {
+        margin: 0 0 33px 0;        
+    }
+}
+
+ 

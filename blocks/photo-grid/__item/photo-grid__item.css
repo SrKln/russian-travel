@@ -1,11 +1,11 @@
 .photo-grid__item {
-    display: block;         
+    display: block;
     width: 288px;
     aspect-ratio: 4 / 3;
     background-position: center center;
-    background-size: cover; 
+    background-size: cover;
     border: 0;
-    box-sizing: border-box;    
+    box-sizing: border-box;
 }
 
 @media screen and (min-width: 768px) {
@@ -14,18 +14,14 @@
     }
 }
 
-
 @media screen and (min-width: 1024px) {
     .photo-grid__item {
-        width: 300px;  
+        width: 300px;
     }
 }
-
 
 @media screen and (min-width: 1280px) {
     .photo-grid__item {
         width: 284px;
-        }
-
-
+    }
 }

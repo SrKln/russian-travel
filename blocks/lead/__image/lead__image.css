@@ -1,23 +1,22 @@
 .lead__image {
     display: block;
-    background-image: url('../../../images/320/lead__image.png');
+    background-image: url("../../../images/320/lead__image.png");
     margin: 0 0 2px 0;
     width: 100%;
     aspect-ratio: 8 / 5;
     background-position: center center;
-    background-size: cover;    
+    background-size: cover;
 }
 
 @media screen and (min-width: 321px) {
     .lead__image {
-        background-image: url('../../../images/768/lead__image.png');
-        margin: 0;        
+        background-image: url("../../../images/768/lead__image.png");
+        margin: 0;
     }
 }
 
-
 @media screen and (min-width: 1025px) {
-    .lead__image {        
-        background-image: url('../../../images/1280/lead__image.png');           
+    .lead__image {
+        background-image: url("../../../images/1280/lead__image.png");
     }
 }

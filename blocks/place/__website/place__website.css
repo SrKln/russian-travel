@@ -2,10 +2,9 @@
     grid-area: website;
     margin: 32px 16px;
     justify-self: start;
-    justify-items:end;    
+    justify-items: end;
     align-self: end;
 }
-
 
 @media screen and (min-width: 768px) {
     .place__website {

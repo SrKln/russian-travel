@@ -1,32 +1,32 @@
-       .lead__caption {
-        margin: 6px 0 64px 16px;
-        padding: 0;
-        font-family: 'Inter';
-        font-style: normal;
-        font-weight: 400;
-        font-size: 10px;
-        line-height: 14px;
-        letter-spacing: 1.5px;
-        text-transform: uppercase;
-        color: #FFFFFF;
-        text-align: left;
-        align-self: flex-start;
-    }
-    
-@media screen and (min-width: 768px) {    
+.lead__caption {
+    margin: 6px 0 64px 16px;
+    padding: 0;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 14px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #ffffff;
+    text-align: left;
+    align-self: flex-start;
+}
+
+@media screen and (min-width: 768px) {
     .lead__caption {
-        margin: 8px 0 89px 24px;      
+        margin: 8px 0 89px 24px;
     }
 }
 
-@media screen and (min-width: 1024px) {     
+@media screen and (min-width: 1024px) {
     .lead__caption {
-        margin: 8px 0 92px 0px;        
+        margin: 8px 0 92px 0;
     }
 }
 
 @media screen and (min-width: 1280px) {
     .lead__caption {
-        margin: 8px 0 93px 0px;        
+        margin: 8px 0 93px 0;
     }
 }

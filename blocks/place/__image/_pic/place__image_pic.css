@@ -1,89 +1,85 @@
 .place__image_pic_1 {
-    background-image: url('../../../../images/320/place__image_1.png');
+    background-image: url("../../../../images/320/place__image_1.png");
 }
 
 .place__image_pic_2 {
-    background-image: url('../../../../images/320/place__image_2.png');
+    background-image: url("../../../../images/320/place__image_2.png");
 }
 
 .place__image_pic_3 {
-    background-image: url('../../../../images/320/place__image_3.png');
+    background-image: url("../../../../images/320/place__image_3.png");
 }
 
 .place__image_pic_4 {
-    background-image: url('../../../../images/320/place__image_4.png');
+    background-image: url("../../../../images/320/place__image_4.png");
 }
 
 .place__image_pic_5 {
-    background-image: url('../../../../images/320/place__image_5.png');
+    background-image: url("../../../../images/320/place__image_5.png");
 }
 
-
-@media screen and (min-width: 768px) {     
+@media screen and (min-width: 768px) {
     .place__image_pic_1 {
-        background-image: url('../../../../images/768/place__image_1.png');
+        background-image: url("../../../../images/768/place__image_1.png");
     }
 
     .place__image_pic_2 {
-        background-image: url('../../../../images/768/place__image_2.png');
+        background-image: url("../../../../images/768/place__image_2.png");
     }
 
     .place__image_pic_3 {
-        background-image: url('../../../../images/768/place__image_3.png');
+        background-image: url("../../../../images/768/place__image_3.png");
     }
 
     .place__image_pic_4 {
-        background-image: url('../../../../images/768/place__image_4.png');
+        background-image: url("../../../../images/768/place__image_4.png");
     }
 
     .place__image_pic_5 {
-        background-image: url('../../../../images/768/place__image_5.png');
+        background-image: url("../../../../images/768/place__image_5.png");
     }
 }
 
-
-@media screen and (min-width: 1024px) { 
+@media screen and (min-width: 1024px) {
     .place__image_pic_1 {
-        background-image: url('../../../../images/1024/place__image_1.png');
+        background-image: url("../../../../images/1024/place__image_1.png");
     }
 
     .place__image_pic_2 {
-        background-image: url('../../../../images/1024/place__image_2.png');
+        background-image: url("../../../../images/1024/place__image_2.png");
     }
 
     .place__image_pic_3 {
-        background-image: url('../../../../images/1024/place__image_3.png');
+        background-image: url("../../../../images/1024/place__image_3.png");
     }
 
     .place__image_pic_4 {
-        background-image: url('../../../../images/1024/place__image_4.png');
+        background-image: url("../../../../images/1024/place__image_4.png");
     }
 
     .place__image_pic_5 {
-        background-image: url('../../../../images/1024/place__image_5.png');
+        background-image: url("../../../../images/1024/place__image_5.png");
     }
-
 }
 
-
-@media screen and (min-width: 1280px) { 
+@media screen and (min-width: 1280px) {
     .place__image_pic_1 {
-        background-image: url('../../../../images/1280/place__image_1.png');
+        background-image: url("../../../../images/1280/place__image_1.png");
     }
 
     .place__image_pic_2 {
-        background-image: url('../../../../images/1280/place__image_2.png');
+        background-image: url("../../../../images/1280/place__image_2.png");
     }
 
     .place__image_pic_3 {
-        background-image: url('../../../../images/1280/place__image_3.png');
+        background-image: url("../../../../images/1280/place__image_3.png");
     }
 
     .place__image_pic_4 {
-        background-image: url('../../../../images/1280/place__image_4.png');
+        background-image: url("../../../../images/1280/place__image_4.png");
     }
 
     .place__image_pic_5 {
-        background-image: url('../../../../images/1280/place__image_5.png');
+        background-image: url("../../../../images/1280/place__image_5.png");
     }
 }

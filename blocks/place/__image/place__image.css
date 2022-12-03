@@ -7,11 +7,9 @@
     aspect-ratio: 1 / 1;
     align-items: stretch;
     justify-items: stretch;
-     background-position: center center;
+    background-position: center center;
     background-size: cover;
-
 }
-
 
 @media screen and (min-width: 768px) {
     .place__image {
@@ -20,13 +18,11 @@
     }
 }
 
-
-@media screen and (min-width: 1024px) { 
+@media screen and (min-width: 1024px) {
     .place__image {
         min-width: 440px;
     }
 }
-
 
 @media screen and (min-width: 1280px) {
     .place__image {

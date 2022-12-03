@@ -14,6 +14,6 @@
 - анимация блока с картой
 - добавление формы обратной связи
 
-## [Ссылка](https://github.com/SrKln/russian-travel.html) на проект на github
+## [Ссылка](https://srkln.github.io/russian-travel/) на проект на github
 
 #### Fun: :grey_question: :bulb: :point_up_2: :question:  — :no_good: ♂ :milky_way:, :construction: :peach:

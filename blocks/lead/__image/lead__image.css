@@ -3,6 +3,7 @@
     background-image: url("../../../images/320/lead__image.png");
     margin: 0 0 2px 0;
     width: 100%;
+    min-width: 200px;
     aspect-ratio: 8 / 5;
     background-position: center center;
     background-size: cover;

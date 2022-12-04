@@ -33,7 +33,7 @@
 }
 
 /* для подсветки блоков, во время работ */
-/* 
+   /*
 div {
 outline: 1px solid red;
 }
@@ -50,9 +50,8 @@ p,
 div,
 h1,
 h2,
-h3,
-a,
-li {
+h3 
+{
 outline: 1px solid red;
 }
 
@@ -60,9 +59,8 @@ section,
 article {
 outline: 1px solid blue;
 }
-
-ul,
-nav {
+ 
+nav, a {
 outline: 1px solid pink;
 }
 */

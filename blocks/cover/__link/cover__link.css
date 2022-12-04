@@ -9,7 +9,7 @@
     align-items: center;
     color: #fff;
     text-decoration: none;
-    background-image: url("../../../../images/320/cover__background.png");
+    background-image: url("../../../images/320/cover__background.png");
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -36,21 +36,21 @@
 
 @media screen and (min-width: 321px) {
     .cover__link {
-        background-image: url("../../../../images/768/cover__background.png");
+        background-image: url("../../../images/768/cover__background.png");
         min-height: 480px;
     }
 }
 
 @media screen and (min-width: 769px) {
     .cover__link {
-        background-image: url("../../../../images/1024/cover__background.png");
+        background-image: url("../../../images/1024/cover__background.png");
         min-height: 640px;
     }
 }
 
 @media screen and (min-width: 1025px) {
     .cover__link {
-        background-image: url("../../../../images/1280/cover__background.png");
+        background-image: url("../../../images/1280/cover__background.png");
         min-height: 740px;
     }
 }

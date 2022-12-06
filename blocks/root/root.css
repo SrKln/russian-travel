@@ -14,26 +14,16 @@
 }
 
 @media screen and (min-width: 1280px) {
+
   /* стили для больших настольных компьютеров и ноутбуков */
   .root {
-      max-width: 1280px;
+    max-width: 1280px;
   }
 }
 
-@media screen and (min-width: 1024px) {
-  /* стили для планшета в альбомной ориентации */
-}
-
-@media screen and (min-width: 768px) {
-  /* стили для планшета */
-}
-
-@media screen and (min-width: 320px) {
-  /* стили для малого смартфона */
-}
 
 /* для подсветки блоков, во время работ */
-   /*
+/*
 div {
 outline: 1px solid red;
 }
@@ -50,7 +40,7 @@ p,
 div,
 h1,
 h2,
-h3 
+h3
 {
 outline: 1px solid red;
 }
@@ -59,7 +49,7 @@ section,
 article {
 outline: 1px solid blue;
 }
- 
+
 nav, a {
 outline: 1px solid pink;
 }

@@ -1,48 +1,48 @@
 .place {
-    display: grid;
-    grid-template-areas:
-        "title"
-        "website"
-        "image"
-        "text";
-    gap: 0;
-    align-items: center;
-    justify-items: center;
-    justify-content: center;
-    margin: 0 0 50px 0;
+  display: grid;
+  grid-template-areas:
+    "title"
+    "website"
+    "image"
+    "text";
+  gap: 0;
+  align-items: center;
+  justify-items: center;
+  justify-content: center;
+  margin: 0 0 50px 0;
 }
 
 .place:last-child {
-    margin-bottom: 66px;
+  margin: 0 0 66px 0;
 }
 
 @media screen and (min-width: 768px) {
-    .place {
-        grid-template-areas:
-            "title website"
-            "image text";
-        gap: 48px 28px;
-        margin: 0 0 73px 0;
-    }
-    .place:last-child {
-        margin-bottom: 90px;
-    }
+  .place {
+    grid-template-areas:
+      "title website"
+      "image text";
+    gap: 48px 28px;
+    margin: 0 0 73px 0;
+  }
+
+  .place:last-child {
+    margin: 0 0 90px 0;
+  }
 }
 
 @media screen and (min-width: 1024px) {
-    .place {
-        gap: 48px 32px;
-        margin: 0 0 80px 0;
-    }
+  .place {
+    gap: 48px 32px;
+    margin: 0 0 80px 0;
+  }
 
-    .place:last-child {
-        margin-bottom: 92px;
-    }
+  .place:last-child {
+    margin: 0 0 92px 0;
+  }
 }
 
 @media screen and (min-width: 1280px) {
-    .place {
-        gap: 48px 40px;
-        margin: 0 0 80px 0;
-    }
+  .place {
+    gap: 48px 40px;
+  }
 }

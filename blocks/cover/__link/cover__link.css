@@ -37,7 +37,7 @@
 
 @media screen and (min-width: 321px) {
   .cover__link {
-    background: url("../../../images/768/cover__background.png");
+    background-image: url("../../../images/768/cover__background.png");
     min-height: 250px;
   }
 }
@@ -68,14 +68,14 @@
 
 @media screen and (min-width: 769px) {
   .cover__link {
-    background: url("../../../images/1024/cover__background.png");
+    background-image: url("../../../images/1024/cover__background.png");
     min-height: 640px;
   }
 }
 
 @media screen and (min-width: 1025px) {
   .cover__link {
-    background: url("../../../images/1280/cover__background.png");
+    background-image: url("../../../images/1280/cover__background.png");
     min-height: 740px;
   }
 }
